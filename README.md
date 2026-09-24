@@ -1,2 +1,1 @@
-# dotfiles
-my personal dotfiles for alpine linux
+theese are my personal dotfiles and they require oh myzsh fastfecyh kitty hyprlnd thunar yambar and rofi
